@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:36.009842
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音玄義記
 #+PROPERTY: CBETA_ID T34n1727
 #+PROPERTY: ID KR6d0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1727
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0047_T_000-0892a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0047_T_002-0899c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 觀音玄義記卷第二¶
+觀音玄義記卷第二¶
 ¶
 宋四明沙門知禮述¶
 
@@ -599,8 +598,7 @@
 性。四絕待者單自單他及自他共。此待皆絕。¶
 約無三句情謂。一往立絕待名全非絕理。二¶
 並是下破二。初總約性執斥三。初約理外斥。¶
-上之境智既屬四性不入三諦故云理外。二¶
-故中下引中論斥。法離四性那計四邪。三計¶
+上之境智既屬四性不入三諦故云理外。二故中下引中論斥。法離四性那計四邪。三計¶
 執下約起過斥。理外妄想於四計中。自執者¶
 是實。他語者皆妄。見惑既盛愛使亦增。見愛¶
 相添即九十八。因茲造業受苦無窮。二云何¶

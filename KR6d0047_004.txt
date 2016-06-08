@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:36.076255
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音玄義記
 #+PROPERTY: CBETA_ID T34n1727
 #+PROPERTY: ID KR6d0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1727
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0047_T_000-0892a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0047_T_004-0915a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 觀音玄義記卷第四¶
+觀音玄義記卷第四¶
 ¶
 宋四明沙門知禮述¶
 
@@ -127,7 +126,7 @@
 菩薩空真。佛空二諦。既約百界即一空一切¶
 空。名畢竟空。具足言之。三千即空名今法緣。¶
 安得不普初明觀境三。初深觀性空三。初觀¶
-千法空。十界必百性相有千。觀此皆空畢竟¶
+千法空。十界必百姓相有千。觀此皆空畢竟¶
 無相。二十法下觀三千空。上之千法於假於¶
 實。及於依報即成三千。三無我下觀二取空。¶
 無能觀我無我所觀。無智無得離二取相。二¶
